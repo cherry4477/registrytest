@@ -1,1 +1,1 @@
-FROM registry.dataos.io/library/hello-world:latest
+FROM registry.dataos.io/library/php:5-apache
